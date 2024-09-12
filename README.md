@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola soy Fco Javier Montes.<br><br>Actualmente estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataforma<br>en el centro Nuestra Señora de los reyes SAFA.<br><br>Soy una persona que le gusta aprender y que siempre está dispuesto a afrontar nuevos retos.<br>
+Hi I'm Fco Javier Montes Estrabón.<br><br>I'm from Spain🇪🇸<br><br>I am currently studying a higher degree in Multiplatform Applications Development<br>at the Nuestra Señora de los reyes SAFA centre.<br><br>I'm a person who likes studying and who always ready to take on new challenges.<br>
 
 
 # 💻 Tech Stack:
